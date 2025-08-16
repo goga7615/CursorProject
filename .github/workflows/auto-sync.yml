@@ -1,0 +1,6 @@
+name: Автоматическая синхронизация 
+on: 
+  push: 
+    branches: [ main ] 
+  schedule: 
+    - cron: '0 */6 * * *' 
