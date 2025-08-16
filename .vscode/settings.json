@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.chat": "markdown",
+        "*.cursor-chat": "markdown"
+    },
+    "workbench.editorAssociations": {
+        "*.chat": "default",
+        "*.cursor-chat": "default"
+    },
+    "cursor.chat.openInChatView": true,
+    "files.defaultLanguage": "markdown",
+    "markdown.preview.openMarkdownLinks": "inPreview",
+    "markdown.preview.breaks": true
+}
+
